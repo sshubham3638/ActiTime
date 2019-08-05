@@ -1,7 +1,5 @@
 package com.actitime.scripts;
-
 import org.testng.annotations.Test;
-
 import com.actitime.generic.BaseLib;
 import com.actitime.generic.ExcelUtilities;
 import com.actitime.pageobjects.CreateNewUsers;
