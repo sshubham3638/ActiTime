@@ -11,8 +11,8 @@ import com.actitime.pageobjects.CreateNewTask;
 import com.actitime.pageobjects.EditCustInfoPage;
 import com.actitime.pageobjects.EditProjInfo;
 import com.actitime.pageobjects.EnterTimeTrackpage;
-	import com.actitime.pageobjects.LoginPage;
-	import com.actitime.pageobjects.OpenTaskPage;
+import com.actitime.pageobjects.LoginPage;
+import com.actitime.pageobjects.OpenTaskPage;
 
 	public class TaskTest extends BaseLib
 	{
