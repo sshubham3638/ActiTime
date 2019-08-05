@@ -1,12 +1,10 @@
 
-	package com.actitime.scripts;
-
-	import org.testng.annotations.Test;
-
-	import com.actitime.generic.BaseLib;
-	import com.actitime.generic.ExcelUtilities;
-	import com.actitime.pageobjects.EnterTimeTrackpage;
-	import com.actitime.pageobjects.LoginPage;
+package com.actitime.scripts;
+import org.testng.annotations.Test;
+import com.actitime.generic.BaseLib;
+import com.actitime.generic.ExcelUtilities;
+import com.actitime.pageobjects.EnterTimeTrackpage;
+import com.actitime.pageobjects.LoginPage;
 
 	public class LoginTest extends BaseLib
 	{
