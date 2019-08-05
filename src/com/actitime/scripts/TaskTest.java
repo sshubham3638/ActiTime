@@ -1,13 +1,11 @@
 
-	package com.actitime.scripts;
-
+package com.actitime.scripts;
 import org.testng.annotations.Test;
-
-	import com.actitime.generic.BaseLib;
-	import com.actitime.generic.ExcelUtilities;
+import com.actitime.generic.BaseLib;
+import com.actitime.generic.ExcelUtilities;
 import com.actitime.generic.WaitStatementLib;
 import com.actitime.pageobjects.ActiveProjAndCustPage;
-	import com.actitime.pageobjects.CreateNewCustPage;
+import com.actitime.pageobjects.CreateNewCustPage;
 import com.actitime.pageobjects.CreateNewProjPage;
 import com.actitime.pageobjects.CreateNewTask;
 import com.actitime.pageobjects.EditCustInfoPage;
