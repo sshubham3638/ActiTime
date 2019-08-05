@@ -48,18 +48,8 @@
 	    	WebDriverWait wait= new WebDriverWait(driver,secs);
 	    	wait.until(ExpectedConditions.refreshed(ExpectedConditions.visibilityOf(ele)));
 	    
-		}
+	    }   
 	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-	    
-
-
 	}
 
 
