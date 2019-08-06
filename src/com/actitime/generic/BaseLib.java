@@ -34,7 +34,7 @@
 				Reporter.log("chrome launched", true);
 			
 			}
-			else if (browserName.equalsIgnoreCase("me"))
+			else if (browserName.equalsIgnoreCase("ie"))
 			{
 				System.setProperty("webdriver.edge.driver", "./exeFiles/MicrosoftWebDriver.exe");
 				driver= new EdgeDriver();
